@@ -1,0 +1,92 @@
+[
+  {
+    "raza":"Affenpinscher",
+    "vida_min":14,
+    "vida_max":16,
+    "peso_macho_max":5,
+    "peso_hembra_max":5,
+    "hipoalergenico":true,
+    "fecha_extraccion":"2026-02-25T20:11:01.429182"
+  },
+  {
+    "raza":"Afghan Hound",
+    "vida_min":12,
+    "vida_max":14,
+    "peso_macho_max":27,
+    "peso_hembra_max":25,
+    "hipoalergenico":false,
+    "fecha_extraccion":"2026-02-25T20:11:01.429225"
+  },
+  {
+    "raza":"Airedale Terrier",
+    "vida_min":12,
+    "vida_max":14,
+    "peso_macho_max":23,
+    "peso_hembra_max":20,
+    "hipoalergenico":false,
+    "fecha_extraccion":"2026-02-25T20:11:01.429239"
+  },
+  {
+    "raza":"Akita",
+    "vida_min":10,
+    "vida_max":12,
+    "peso_macho_max":60,
+    "peso_hembra_max":50,
+    "hipoalergenico":false,
+    "fecha_extraccion":"2026-02-25T20:11:01.429249"
+  },
+  {
+    "raza":"Alaskan Klee Kai",
+    "vida_min":12,
+    "vida_max":15,
+    "peso_macho_max":7,
+    "peso_hembra_max":7,
+    "hipoalergenico":false,
+    "fecha_extraccion":"2026-02-25T20:11:01.429259"
+  },
+  {
+    "raza":"Alaskan Malamute",
+    "vida_min":12,
+    "vida_max":15,
+    "peso_macho_max":39,
+    "peso_hembra_max":34,
+    "hipoalergenico":false,
+    "fecha_extraccion":"2026-02-25T20:11:01.429270"
+  },
+  {
+    "raza":"American Bulldog",
+    "vida_min":12,
+    "vida_max":14,
+    "peso_macho_max":50,
+    "peso_hembra_max":45,
+    "hipoalergenico":false,
+    "fecha_extraccion":"2026-02-25T20:11:01.429279"
+  },
+  {
+    "raza":"American English Coonhound",
+    "vida_min":12,
+    "vida_max":14,
+    "peso_macho_max":30,
+    "peso_hembra_max":30,
+    "hipoalergenico":false,
+    "fecha_extraccion":"2026-02-25T20:11:01.429288"
+  },
+  {
+    "raza":"American Eskimo Dog",
+    "vida_min":12,
+    "vida_max":15,
+    "peso_macho_max":20,
+    "peso_hembra_max":20,
+    "hipoalergenico":false,
+    "fecha_extraccion":"2026-02-25T20:11:01.429297"
+  },
+  {
+    "raza":"American Foxhound",
+    "vida_min":12,
+    "vida_max":15,
+    "peso_macho_max":34,
+    "peso_hembra_max":34,
+    "hipoalergenico":false,
+    "fecha_extraccion":"2026-02-25T20:11:01.429308"
+  }
+]

@@ -1,0 +1,284 @@
+raza,vida_min,vida_max,vida_promedio,peso_macho_max,peso_hembra_max,peso_promedio,categoria_peso,diferencia_sexual_peso,hipoalergenico,fecha_extraccion
+Affenpinscher,14,16,15.0,5,5,5.0,Muy pequeño,0,True,2026-03-26T12:16:51.082919
+Afghan Hound,12,14,13.0,27,25,26.0,Mediano,2,False,2026-03-26T12:16:51.082954
+Airedale Terrier,12,14,13.0,23,20,21.5,Mediano,3,False,2026-03-26T12:16:51.082964
+Akita,10,12,11.0,60,50,55.0,Gigante,10,False,2026-03-26T12:16:51.082972
+Alaskan Klee Kai,12,15,13.5,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.082980
+Alaskan Malamute,12,15,13.5,39,34,36.5,Grande,5,False,2026-03-26T12:16:51.082988
+American Bulldog,12,14,13.0,50,45,47.5,Gigante,5,False,2026-03-26T12:16:51.082994
+American English Coonhound,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083011
+American Eskimo Dog,12,15,13.5,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083020
+American Foxhound,12,15,13.5,34,34,34.0,Grande,0,False,2026-03-26T12:16:51.083048
+American Hairless Terrier,12,14,13.0,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.083056
+American Leopard Hound,12,15,13.5,40,35,37.5,Grande,5,False,2026-03-26T12:16:51.083062
+American Staffordshire Terrier,12,14,13.0,40,40,40.0,Grande,0,False,2026-03-26T12:16:51.083066
+American Water Spaniel,12,14,13.0,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083070
+Anatolian Shepherd Dog,12,14,13.0,70,70,70.0,Gigante,0,False,2026-03-26T12:16:51.083074
+Appenzeller Sennenhund,12,15,13.5,45,45,45.0,Gigante,0,False,2026-03-26T12:16:51.083077
+Australian Cattle Dog,12,15,13.5,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083080
+Australian Kelpie,12,14,13.0,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083084
+Australian Shepherd,12,15,13.5,30,25,27.5,Mediano,5,False,2026-03-26T12:16:51.083087
+Australian Stumpy Tail Cattle Dog,12,15,13.5,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083091
+Australian Terrier,14,16,15.0,6,6,6.0,Muy pequeño,0,False,2026-03-26T12:16:51.083095
+Azawakh,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083098
+Barbado da Terceira,12,15,13.5,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083101
+Barbet,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083105
+Basenji,14,16,15.0,10,10,10.0,Pequeño,0,False,2026-03-26T12:16:51.083108
+Basset Fauve de Bretagne,12,15,13.5,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.083112
+Basset Hound,12,14,13.0,29,29,29.0,Mediano,0,False,2026-03-26T12:16:51.083116
+Bavarian Mountain Scent Houn,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083119
+Beagle,12,15,13.5,11,11,11.0,Pequeño,0,False,2026-03-26T12:16:51.083122
+Bearded Collie,12,14,13.0,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.083136
+Beauceron,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083140
+Bedlington Terrier,12,14,13.0,9,9,9.0,Muy pequeño,0,False,2026-03-26T12:16:51.083143
+Belgian Laekenois,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083147
+Belgian Malinois,12,14,13.0,30,25,27.5,Mediano,5,False,2026-03-26T12:16:51.083153
+Belgian Sheepdog,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083159
+Belgian Tervuren,12,15,13.5,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.083166
+Bergamasco Sheepdog,12,15,13.5,45,45,45.0,Gigante,0,False,2026-03-26T12:16:51.083173
+Berger Picard,12,14,13.0,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.083179
+Bernese Mountain Dog,8,10,9.0,70,70,70.0,Gigante,0,False,2026-03-26T12:16:51.083186
+Bichon Frise,14,16,15.0,5,5,5.0,Muy pequeño,0,True,2026-03-26T12:16:51.083198
+Biewer Terrier,14,16,15.0,3,3,3.0,Muy pequeño,0,False,2026-03-26T12:16:51.083204
+Black and Tan Coonhound,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083211
+Black Russian Terrier,10,12,11.0,60,60,60.0,Gigante,0,False,2026-03-26T12:16:51.083217
+Bloodhound,10,12,11.0,54,54,54.0,Gigante,0,False,2026-03-26T12:16:51.083221
+Bluetick Coonhound,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083224
+Boerboel,10,12,11.0,80,80,80.0,Gigante,0,False,2026-03-26T12:16:51.083228
+Bohemian Shepherd,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083231
+Bolognese,14,16,15.0,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.083235
+Border Collie,12,16,14.0,30,25,27.5,Mediano,5,False,2026-03-26T12:16:51.083238
+Border Terrier,14,16,15.0,8,8,8.0,Muy pequeño,0,False,2026-03-26T12:16:51.083245
+Borzoi,10,12,11.0,45,35,40.0,Grande,10,False,2026-03-26T12:16:51.083248
+Boston Terrier,12,14,13.0,11,11,11.0,Pequeño,0,False,2026-03-26T12:16:51.083251
+Bouvier des Flandres,10,14,12.0,40,35,37.5,Grande,5,False,2026-03-26T12:16:51.083255
+Boxer,10,12,11.0,32,29,30.5,Grande,3,False,2026-03-26T12:16:51.083259
+Boykin Spaniel,12,15,13.5,16,16,16.0,Pequeño,0,False,2026-03-26T12:16:51.083262
+Bracco Italiano,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083265
+Braque du Bourbonnais,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083269
+Braque Francais Pyrenean,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083272
+Briard,10,12,11.0,40,35,37.5,Grande,5,False,2026-03-26T12:16:51.083275
+Brittany,12,14,13.0,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.083281
+Broholmer,8,10,9.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083285
+Brussels Griffon,12,15,13.5,4,4,4.0,Muy pequeño,0,False,2026-03-26T12:16:51.083288
+Bulldog,8,10,9.0,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.083291
+Bullmastiff,8,10,9.0,59,54,56.5,Gigante,5,False,2026-03-26T12:16:51.083294
+Bull Terrier,12,15,13.5,22,20,21.0,Mediano,2,False,2026-03-26T12:16:51.083298
+Cairn Terrier,14,16,15.0,6,6,6.0,Muy pequeño,0,False,2026-03-26T12:16:51.083302
+Canaan Dog,12,14,13.0,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083306
+Cane Corso,10,12,11.0,50,45,47.5,Gigante,5,False,2026-03-26T12:16:51.083309
+Cardigan Welsh Corgi,12,15,13.5,15,14,14.5,Pequeño,1,False,2026-03-26T12:16:51.083313
+Carolina Dog,12,14,13.0,14,14,14.0,Pequeño,0,False,2026-03-26T12:16:51.083318
+Catahoula Leopard Dog,12,14,13.0,32,32,32.0,Grande,0,False,2026-03-26T12:16:51.083322
+Caucasian Shepherd Dog,15,20,17.5,90,70,80.0,Gigante,20,False,2026-03-26T12:16:51.083325
+Cavalier King Charles Spaniel,12,15,13.5,8,8,8.0,Muy pequeño,0,False,2026-03-26T12:16:51.083332
+Central Asian Shepherd Dog,12,14,13.0,90,70,80.0,Gigante,20,False,2026-03-26T12:16:51.083335
+Cesky Terrier,12,14,13.0,8,8,8.0,Muy pequeño,0,False,2026-03-26T12:16:51.083339
+Chesapeake Bay Retriever,12,14,13.0,36,36,36.0,Grande,0,False,2026-03-26T12:16:51.083342
+Chihuahua,14,16,15.0,3,3,3.0,Muy pequeño,0,False,2026-03-26T12:16:51.083345
+Chinese Crested,14,16,15.0,5,5,5.0,Muy pequeño,0,True,2026-03-26T12:16:51.083349
+Chinese Shar-Pei,12,14,13.0,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.083353
+Chinook,12,14,13.0,29,29,29.0,Mediano,0,False,2026-03-26T12:16:51.083359
+Chow Chow,12,15,13.5,32,32,32.0,Grande,0,False,2026-03-26T12:16:51.083363
+Cirneco dell'Etna,12,14,13.0,14,14,14.0,Pequeño,0,False,2026-03-26T12:16:51.083366
+Clumber Spaniel,12,14,13.0,32,32,32.0,Grande,0,False,2026-03-26T12:16:51.083369
+Cocker Spaniel,12,15,13.5,15,12,13.5,Pequeño,3,False,2026-03-26T12:16:51.083373
+Collie,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083376
+Coton de Tulear,12,15,13.5,6,6,6.0,Muy pequeño,0,False,2026-03-26T12:16:51.083379
+Croatian Sheepdog,12,15,13.5,22,22,22.0,Mediano,0,False,2026-03-26T12:16:51.083383
+Curly-Coated Retriever,12,14,13.0,34,32,33.0,Grande,2,False,2026-03-26T12:16:51.083387
+Czechoslovakian Vlcak,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083390
+Dachshund,12,15,13.5,9,9,9.0,Muy pequeño,0,False,2026-03-26T12:16:51.083396
+Dalmatian,11,13,12.0,32,32,32.0,Grande,0,False,2026-03-26T12:16:51.083400
+Dandie Dinmont Terrier,12,14,13.0,11,11,11.0,Pequeño,0,False,2026-03-26T12:16:51.083403
+Danish-Swedish Farmdog,12,14,13.0,15,15,15.0,Pequeño,0,False,2026-03-26T12:16:51.083412
+Deutscher Wachtelhund,12,14,13.0,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083417
+Doberman Pinscher,10,13,11.5,40,35,37.5,Grande,5,False,2026-03-26T12:16:51.083420
+Dogo Argentino,10,12,11.0,45,45,45.0,Gigante,0,False,2026-03-26T12:16:51.083424
+Dogue de Bordeaux,8,10,9.0,70,70,70.0,Gigante,0,False,2026-03-26T12:16:51.083427
+Drentsche Patrijshond,12,14,13.0,22,22,22.0,Mediano,0,False,2026-03-26T12:16:51.083431
+Drever,12,14,13.0,15,15,15.0,Pequeño,0,False,2026-03-26T12:16:51.083435
+Dutch Shepherd,12,14,13.0,40,35,37.5,Grande,5,False,2026-03-26T12:16:51.083440
+English Cocker Spaniel,12,14,13.0,16,16,16.0,Pequeño,0,False,2026-03-26T12:16:51.083444
+English Foxhound,12,15,13.5,29,27,28.0,Mediano,2,False,2026-03-26T12:16:51.083447
+English Setter,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083450
+English Springer Spaniel,12,14,13.0,17,17,17.0,Pequeño,0,False,2026-03-26T12:16:51.083454
+English Toy Spaniel,14,16,15.0,5,5,5.0,Muy pequeño,0,False,2026-03-26T12:16:51.083457
+Entlebucher Mountain Dog,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083460
+Estrela Mountain Dog,12,14,13.0,60,50,55.0,Gigante,10,False,2026-03-26T12:16:51.083464
+Eurasier,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083467
+Field Spaniel,12,14,13.0,18,18,18.0,Pequeño,0,False,2026-03-26T12:16:51.083470
+Finnish Lapphund,12,14,13.0,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083476
+Finnish Spitz,14,16,15.0,16,16,16.0,Pequeño,0,False,2026-03-26T12:16:51.083479
+Flat-Coated Retriever,10,12,11.0,34,32,33.0,Grande,2,False,2026-03-26T12:16:51.083482
+French Bulldog,10,12,11.0,14,14,14.0,Pequeño,0,False,2026-03-26T12:16:51.083486
+French Spaniel,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083489
+German Longhaired Pointer,12,14,13.0,32,32,32.0,Grande,0,False,2026-03-26T12:16:51.083492
+German Pinscher,12,15,13.5,15,15,15.0,Pequeño,0,False,2026-03-26T12:16:51.083496
+German Shepherd Dog,9,13,11.0,40,32,36.0,Grande,8,False,2026-03-26T12:16:51.083499
+German Shorthaired Pointer,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083502
+German Spitz,14,16,15.0,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.083506
+German Wirehaired Pointer,12,14,13.0,32,32,32.0,Grande,0,False,2026-03-26T12:16:51.083511
+Giant Schnauzer,12,14,13.0,70,70,70.0,Gigante,0,False,2026-03-26T12:16:51.083515
+Glen of Imaal Terrier,12,14,13.0,16,16,16.0,Pequeño,0,False,2026-03-26T12:16:51.083518
+Golden Retriever,12,14,13.0,34,32,33.0,Grande,2,False,2026-03-26T12:16:51.083521
+Gordon Setter,12,14,13.0,32,32,32.0,Grande,0,False,2026-03-26T12:16:51.083524
+Grand Basset Griffon Vendéen,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083528
+Great Dane,8,10,9.0,54,54,54.0,Gigante,0,False,2026-03-26T12:16:51.083531
+Greater Swiss Mountain Dog,8,10,9.0,70,60,65.0,Gigante,10,False,2026-03-26T12:16:51.083534
+Great Pyrenees,10,12,11.0,45,45,45.0,Gigante,0,False,2026-03-26T12:16:51.083538
+Greyhound,10,12,11.0,40,40,40.0,Grande,0,False,2026-03-26T12:16:51.083541
+Hamiltonstovare,12,14,13.0,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.083547
+Hanoverian Scenthound,12,14,13.0,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.083550
+Harrier,12,15,13.5,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.083554
+Havanese,14,16,15.0,5,5,5.0,Muy pequeño,0,False,2026-03-26T12:16:51.083557
+Hokkaido,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083560
+Hovawart,12,14,13.0,45,40,42.5,Grande,5,False,2026-03-26T12:16:51.083563
+Ibizan Hound,12,15,13.5,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.083567
+Icelandic Sheepdog,14,16,15.0,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083572
+Irish Red and White Setter,12,14,13.0,32,32,32.0,Grande,0,False,2026-03-26T12:16:51.083576
+Irish Setter,12,14,13.0,32,32,32.0,Grande,0,False,2026-03-26T12:16:51.083579
+Irish Terrier,12,15,13.5,9,9,9.0,Muy pequeño,0,False,2026-03-26T12:16:51.083584
+Irish Water Spaniel,12,14,13.0,32,32,32.0,Grande,0,True,2026-03-26T12:16:51.083588
+Irish Wolfhound,6,8,7.0,90,90,90.0,Gigante,0,False,2026-03-26T12:16:51.083591
+Italian Greyhound,14,16,15.0,5,5,5.0,Muy pequeño,0,True,2026-03-26T12:16:51.083596
+Jagdterrier,12,15,13.5,10,10,10.0,Pequeño,0,False,2026-03-26T12:16:51.083600
+Japanese Akitainu,12,15,13.5,50,45,47.5,Gigante,5,False,2026-03-26T12:16:51.083603
+Japanese Chin,12,14,13.0,4,4,4.0,Muy pequeño,0,False,2026-03-26T12:16:51.083606
+Japanese Spitz,12,15,13.5,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.083609
+Japanese Terrier,15,20,17.5,4,4,4.0,Muy pequeño,0,False,2026-03-26T12:16:51.083613
+Jindo,12,15,13.5,15,15,15.0,Pequeño,0,False,2026-03-26T12:16:51.083616
+Kai Ken,12,15,13.5,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083622
+Karelian Bear Dog,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083625
+Keeshond,12,15,13.5,18,18,18.0,Pequeño,0,False,2026-03-26T12:16:51.083629
+Kerry Blue Terrier,12,14,13.0,17,17,17.0,Pequeño,0,True,2026-03-26T12:16:51.083632
+Kishu Ken,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083635
+Komondor,10,12,11.0,70,60,65.0,Gigante,10,False,2026-03-26T12:16:51.083639
+Kromfohrlander,12,14,13.0,6,6,6.0,Muy pequeño,0,False,2026-03-26T12:16:51.083642
+Kuvasz,12,14,13.0,50,45,47.5,Gigante,5,False,2026-03-26T12:16:51.083645
+Labrador Retriever,12,14,13.0,32,32,32.0,Grande,0,False,2026-03-26T12:16:51.083648
+Lagotto Romagnolo,12,15,13.5,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083652
+Lakeland Terrier,12,15,13.5,9,9,9.0,Muy pequeño,0,False,2026-03-26T12:16:51.083658
+Lancashire Heeler,12,15,13.5,11,11,11.0,Pequeño,0,False,2026-03-26T12:16:51.083661
+Lapponian Herder,12,14,13.0,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083665
+Leonberger,8,10,9.0,80,65,72.5,Gigante,15,False,2026-03-26T12:16:51.083668
+Lhasa Apso,14,16,15.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083671
+Löwchen,12,15,13.5,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.083675
+Maltese,12,14,13.0,4,4,4.0,Muy pequeño,0,True,2026-03-26T12:16:51.083678
+Manchester Terrier (Standard),12,15,13.5,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.083681
+Manchester Terrier (Toy),12,15,13.5,5,5,5.0,Muy pequeño,0,False,2026-03-26T12:16:51.083684
+Mastiff,6,8,7.0,90,70,80.0,Gigante,20,False,2026-03-26T12:16:51.083688
+Miniature American Shepherd,12,14,13.0,14,14,14.0,Pequeño,0,False,2026-03-26T12:16:51.083693
+Miniature Bull Terrier,12,15,13.5,14,14,14.0,Pequeño,0,False,2026-03-26T12:16:51.083696
+Miniature Pinscher,14,16,15.0,4,4,4.0,Muy pequeño,0,True,2026-03-26T12:16:51.083700
+Miniature Schnauzer,12,15,13.5,7,7,7.0,Muy pequeño,0,True,2026-03-26T12:16:51.083703
+Mountain Cur,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083706
+Mudi,12,15,13.5,15,15,15.0,Pequeño,0,False,2026-03-26T12:16:51.083710
+Neapolitan Mastiff,9,11,10.0,70,60,65.0,Gigante,10,False,2026-03-26T12:16:51.083713
+Nederlandse Kooikerhondje,12,15,13.5,15,15,15.0,Pequeño,0,False,2026-03-26T12:16:51.083716
+Newfoundland,8,10,9.0,70,70,70.0,Gigante,0,False,2026-03-26T12:16:51.083719
+Norfolk Terrier,12,15,13.5,6,6,6.0,Muy pequeño,0,False,2026-03-26T12:16:51.083723
+Norrbottenspets,12,15,13.5,10,10,10.0,Pequeño,0,False,2026-03-26T12:16:51.083728
+Norwegian Buhund,12,14,13.0,16,16,16.0,Pequeño,0,False,2026-03-26T12:16:51.083732
+Norwegian Elkhound,12,15,13.5,25,23,24.0,Mediano,2,False,2026-03-26T12:16:51.083735
+Norwegian Lundehund,12,15,13.5,9,8,8.5,Muy pequeño,1,False,2026-03-26T12:16:51.083738
+Norwich Terrier,12,15,13.5,6,6,6.0,Muy pequeño,0,False,2026-03-26T12:16:51.083741
+Nova Scotia Duck Tolling Retriever,12,14,13.0,16,16,16.0,Pequeño,0,False,2026-03-26T12:16:51.083744
+Old English Sheepdog,10,12,11.0,50,45,47.5,Gigante,5,False,2026-03-26T12:16:51.083748
+Otterhound,8,10,9.0,45,45,45.0,Gigante,0,False,2026-03-26T12:16:51.083751
+Papillon,12,15,13.5,4,4,4.0,Muy pequeño,0,False,2026-03-26T12:16:51.083754
+Parson Russell Terrier,12,14,13.0,8,8,8.0,Muy pequeño,0,False,2026-03-26T12:16:51.083757
+Pekingese,12,14,13.0,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.083763
+Pembroke Welsh Corgi,12,15,13.5,13,13,13.0,Pequeño,0,False,2026-03-26T12:16:51.083766
+Perro de Presa Canario,10,12,11.0,50,45,47.5,Gigante,5,False,2026-03-26T12:16:51.083770
+Peruvian Inca Orchid,12,15,13.5,15,15,15.0,Pequeño,0,False,2026-03-26T12:16:51.083773
+Petit Basset Griffon Vendéen,12,14,13.0,16,16,16.0,Pequeño,0,False,2026-03-26T12:16:51.083778
+Pharaoh Hound,12,14,13.0,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.083782
+Plott,12,14,13.0,41,41,41.0,Grande,0,False,2026-03-26T12:16:51.083785
+Pointer,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083788
+Polish Lowland Sheepdog,12,14,13.0,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083792
+Pomeranian,12,16,14.0,5,5,5.0,Muy pequeño,0,False,2026-03-26T12:16:51.083795
+Poodle (Miniature),14,16,15.0,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.083804
+Poodle (Standard),12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083808
+Poodle (Toy),14,16,15.0,4,4,4.0,Muy pequeño,0,True,2026-03-26T12:16:51.083811
+Porcelaine,12,15,13.5,10,10,10.0,Pequeño,0,False,2026-03-26T12:16:51.083814
+Portuguese Podengo,12,14,13.0,10,10,10.0,Pequeño,0,False,2026-03-26T12:16:51.083817
+Portuguese Podengo Pequeno,12,15,13.5,6,6,6.0,Muy pequeño,0,False,2026-03-26T12:16:51.083821
+Portuguese Pointer,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083824
+Portuguese Sheepdog,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083827
+Portuguese Water Dog,12,15,13.5,30,27,28.5,Mediano,3,False,2026-03-26T12:16:51.083831
+Pudelpointer,12,15,13.5,30,25,27.5,Mediano,5,False,2026-03-26T12:16:51.083834
+Pug,12,15,13.5,8,8,8.0,Muy pequeño,0,False,2026-03-26T12:16:51.083840
+Puli,12,15,13.5,14,14,14.0,Pequeño,0,False,2026-03-26T12:16:51.083846
+Pumi,12,15,13.5,16,16,16.0,Pequeño,0,False,2026-03-26T12:16:51.083852
+Pyrenean Mastiff,10,12,11.0,100,90,95.0,Gigante,10,False,2026-03-26T12:16:51.083859
+Pyrenean Shepherd,12,15,13.5,15,15,15.0,Pequeño,0,False,2026-03-26T12:16:51.083866
+Rafeiro do Alentejo,12,14,13.0,60,60,60.0,Gigante,0,False,2026-03-26T12:16:51.083873
+Rat Terrier,14,16,15.0,6,6,6.0,Muy pequeño,0,False,2026-03-26T12:16:51.083879
+Redbone Coonhound,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083884
+Rhodesian Ridgeback,12,14,13.0,41,41,41.0,Grande,0,False,2026-03-26T12:16:51.083887
+Romanian Carpathian Shepherd,12,14,13.0,65,60,62.5,Gigante,5,False,2026-03-26T12:16:51.083891
+Romanian Mioritic Shepherd Dog,12,14,13.0,50,50,50.0,Gigante,0,False,2026-03-26T12:16:51.083898
+Rottweiler,8,10,9.0,60,55,57.5,Gigante,5,False,2026-03-26T12:16:51.083902
+Russell Terrier,12,14,13.0,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.083905
+Russian Toy,12,14,13.0,3,3,3.0,Muy pequeño,0,False,2026-03-26T12:16:51.083909
+Russian Tsvetnaya Bolonka,14,16,15.0,5,5,5.0,Muy pequeño,0,False,2026-03-26T12:16:51.083912
+Saint Bernard,8,10,9.0,110,110,110.0,Gigante,0,False,2026-03-26T12:16:51.083916
+Saluki,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083919
+Samoyed,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083923
+Schapendoes,12,15,13.5,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.083926
+Schipperke,15,17,16.0,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.083929
+Scottish Deerhound,8,10,9.0,50,50,50.0,Gigante,0,False,2026-03-26T12:16:51.083935
+Scottish Terrier,12,15,13.5,10,9,9.5,Muy pequeño,1,False,2026-03-26T12:16:51.083938
+Sealyham Terrier,12,14,13.0,10,10,10.0,Pequeño,0,False,2026-03-26T12:16:51.083942
+Segugio Italiano,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083945
+Shetland Sheepdog,12,15,13.5,14,14,14.0,Pequeño,0,False,2026-03-26T12:16:51.083950
+Shiba Inu,12,15,13.5,10,10,10.0,Pequeño,0,False,2026-03-26T12:16:51.083956
+Shih Tzu,14,16,15.0,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.083962
+Shikoku,12,15,13.5,22,22,22.0,Mediano,0,False,2026-03-26T12:16:51.083968
+Siberian Husky,12,14,13.0,27,23,25.0,Mediano,4,False,2026-03-26T12:16:51.083974
+Silky Terrier,12,15,13.5,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.083980
+Skye Terrier,12,15,13.5,8,8,8.0,Muy pequeño,0,False,2026-03-26T12:16:51.083991
+Sloughi,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.083998
+Slovakian Wirehaired Pointer,12,15,13.5,35,35,35.0,Grande,0,False,2026-03-26T12:16:51.084004
+Slovensky Cuvac,12,14,13.0,40,40,40.0,Grande,0,False,2026-03-26T12:16:51.084011
+Slovensky Kopov,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.084017
+Small Munsterlander,12,15,13.5,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.084027
+Smooth Fox Terrier,12,15,13.5,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.084034
+Soft Coated Wheaten Terrier,12,15,13.5,25,25,25.0,Mediano,0,True,2026-03-26T12:16:51.084041
+Spanish Mastiff,8,10,9.0,110,100,105.0,Gigante,10,False,2026-03-26T12:16:51.084047
+Spanish Water Dog,12,14,13.0,22,22,22.0,Mediano,0,False,2026-03-26T12:16:51.084054
+Spinone Italiano,12,14,13.0,35,35,35.0,Grande,0,False,2026-03-26T12:16:51.084065
+Stabyhoun,12,15,13.5,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.084072
+Staffordshire Bull Terrier,12,14,13.0,17,17,17.0,Pequeño,0,False,2026-03-26T12:16:51.084079
+Standard Schnauzer,12,15,13.5,22,22,22.0,Mediano,0,True,2026-03-26T12:16:51.084086
+Sussex Spaniel,12,15,13.5,27,27,27.0,Mediano,0,False,2026-03-26T12:16:51.084092
+Swedish Lapphund,12,14,13.0,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.084099
+Swedish Vallhund,12,15,13.5,16,16,16.0,Pequeño,0,False,2026-03-26T12:16:51.084105
+Taiwan Dog,12,15,13.5,15,15,15.0,Pequeño,0,False,2026-03-26T12:16:51.084112
+Teddy Roosevelt Terrier,12,15,13.5,11,11,11.0,Pequeño,0,False,2026-03-26T12:16:51.084118
+Thai Ridgeback,12,14,13.0,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.084124
+Tibetan Mastiff,10,12,11.0,90,90,90.0,Gigante,0,False,2026-03-26T12:16:51.084135
+Tibetan Spaniel,14,16,15.0,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.084142
+Tibetan Terrier,14,16,15.0,8,8,8.0,Muy pequeño,0,False,2026-03-26T12:16:51.084148
+Tornjak,12,14,13.0,70,70,70.0,Gigante,0,False,2026-03-26T12:16:51.084155
+Tosa,8,12,10.0,80,80,80.0,Gigante,0,False,2026-03-26T12:16:51.084164
+Toy Fox Terrier,14,16,15.0,3,3,3.0,Muy pequeño,0,False,2026-03-26T12:16:51.084174
+Transylvanian Hound,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.084181
+Treeing Tennessee Brindle,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.084187
+Treeing Walker Coonhound,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.084194
+Vizsla,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.084200
+Volpino Italiano,12,15,13.5,6,6,6.0,Muy pequeño,0,False,2026-03-26T12:16:51.084251
+Weimaraner,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.084263
+Welsh Springer Spaniel,12,15,13.5,25,25,25.0,Mediano,0,False,2026-03-26T12:16:51.084271
+Welsh Terrier,12,15,13.5,9,9,9.0,Muy pequeño,0,False,2026-03-26T12:16:51.084278
+West Highland White Terrier,12,15,13.5,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.084284
+Wetterhoun,12,14,13.0,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.084290
+Whippet,12,15,13.5,15,15,15.0,Pequeño,0,False,2026-03-26T12:16:51.084296
+Wire Fox Terrier,12,15,13.5,7,7,7.0,Muy pequeño,0,False,2026-03-26T12:16:51.084302
+Wirehaired Pointing Griffon,12,14,13.0,27,27,27.0,Mediano,0,False,2026-03-26T12:16:51.084308
+Wirehaired Vizsla,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.084315
+Working Kelpie,12,15,13.5,20,20,20.0,Mediano,0,False,2026-03-26T12:16:51.084328
+Xoloitzcuintli,12,15,13.5,15,15,15.0,Pequeño,0,True,2026-03-26T12:16:51.084334
+Yakutian Laika,12,15,13.5,30,30,30.0,Grande,0,False,2026-03-26T12:16:51.084340
+Yorkshire Terrier,12,15,13.5,3,3,3.0,Muy pequeño,0,False,2026-03-26T12:16:51.084346
